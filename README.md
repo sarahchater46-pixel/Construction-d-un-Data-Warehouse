@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+
 
 📋 Description du Projet
 Ce projet consiste en la mise en place d'un Data Warehouse complet pour la chaîne de magasins NRG Retail, opérant en Suède et en Norvège. L'objectif est de transformer des données financières brutes (CSV) en un modèle analytique performant (Star Schema) pour piloter la rentabilité et l'efficacité marketing via Power BI.
